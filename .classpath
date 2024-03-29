@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="libs/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/itextpdf-5.4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-beanutils-1.9.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-collections4-4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-digester-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/itext-2.1.7.js9.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jasperreports-6.19.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
